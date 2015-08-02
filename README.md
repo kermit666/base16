@@ -46,3 +46,4 @@ Please submit any issues and/or pull requests to the appropriate [repository](ht
 ## Projects using Base16
 * [c-Tiles16](https://github.com/atelierbram/c-tiles16) Colorscheming with Variables
 * [Spacegray](https://github.com/kkga/spacegray) A set of custom UI themes for Sublime Text 2/3
+* [YosemiForge](https://github.com/fontforge/YosemiForge) A theme used for [FontForge](https://fontforge.github.io/en-US/), a font editor
